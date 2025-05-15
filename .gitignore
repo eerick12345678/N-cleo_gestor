@@ -1,5 +1,32 @@
-backup_nucleo/
-*.tar.gz
+# Arquivos de sistema
 *.log
 *.tmp
-temp/
+*.bak
+*.swp
+*.swo
+
+# Diretórios ocultos ou inúteis
+.cache/
+.history/
+.env/
+node_modules/
+__pycache__/
+*.pyc
+
+# Arquivos do Termux
+termux.properties
+termux-sessions/
+
+# Arquivos grandes ou inúteis para controle de versão
+*.mp3
+*.mp4
+*.zip
+*.tar
+*.tar.gz
+*.db
+*.sqlite
+*.jpg
+*.png
+
+# Evitar loop_update infinito
+git_log.txt
