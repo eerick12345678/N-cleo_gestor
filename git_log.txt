@@ -1,2 +1,10 @@
 [INFO] Verificando mudanças - Thu May 15 22:06:21 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main f7d5cd1] Atualização automática em 2025-05-15 22:06:22
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+ create mode 100644 git_log.txt
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   e57634c..f7d5cd1  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 15 22:06:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
