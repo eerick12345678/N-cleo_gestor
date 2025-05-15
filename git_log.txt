@@ -8,3 +8,10 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [SUCESSO] Atualização enviada para o GitHub.
 [INFO] Verificando mudanças - Thu May 15 22:06:57 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main 57fe709] Atualização automática em 2025-05-15 22:06:57
+ 1 file changed, 8 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   f7d5cd1..57fe709  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 15 22:08:11 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
