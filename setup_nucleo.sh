@@ -36,7 +36,10 @@ chmod +x ~/nucleo_gestor/loop_update.sh
 # Instalar pacotes essenciais
 pkg install -y git python espeak tsu
 
-# Mensagem final de voz natural feminina (usando voz do Android)
-termux-tts-speak "Núcleo gestor ativado. A escuridão está pronta para obedecer, mestre Erick."
-
-echo "[SUCESSO] Núcleo configurado e pronto para operar."
+# Mensagem final
+echo ""
+echo "=============================================="
+echo "[SUCESSO] Núcleo Gestor foi ativado com êxito."
+echo "A escuridão está pronta para obedecer, Mestre Erick."
+echo "Seu império começa agora. Nada será como antes."
+echo "=============================================="
