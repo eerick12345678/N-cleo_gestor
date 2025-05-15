@@ -41,3 +41,6 @@ error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_ges
 [SUCESSO] Atualização enviada para o GitHub.
 [INFO] Verificando mudanças - Thu May 15 22:24:33 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 15 22:25:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
