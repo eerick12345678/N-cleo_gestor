@@ -1,0 +1,5 @@
+backup_nucleo/
+*.tar.gz
+*.log
+*.tmp
+temp/
