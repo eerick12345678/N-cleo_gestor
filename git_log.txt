@@ -375,3 +375,19 @@ Everything up-to-date
 [INFO] Verificando mudanças - Fri May 16 23:33:18 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main d2981ac] Atualização automática em 2025-05-16 23:33:18
+ 1 file changed, 21 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at d2981ac19da3dcef9481c40e182a02abae87fdf1 but expected bde63752edd4e3f31dd9df32d209c8d7dc43d60e)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:35:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
