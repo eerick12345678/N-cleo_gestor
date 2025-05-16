@@ -493,3 +493,9 @@ error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_ges
  1 file changed, 9 insertions(+)
 [INFO] Verificando mudanças - Sat May 17 00:46:09 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   9da87c9..e9976ba  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:58:51 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
