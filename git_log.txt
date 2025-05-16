@@ -425,3 +425,7 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
    2554d85..39ff80b  main -> main
 [SUCESSO] Atualização enviada para o GitHub.
 [SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:12:53 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 00:12:54 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
