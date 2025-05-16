@@ -104,3 +104,12 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Verificando mudanças - Fri May 16 12:56:14 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main 1cd0a44] Atualização automática em 2025-05-16 12:56:15
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1cd0a4480653227b67f93d1eaf6415b80214bb3a but expected 6040536021fa421d8a3c8f3f12d69043892e320a)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 14:01:00 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
