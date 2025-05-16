@@ -133,3 +133,9 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [SUCESSO] Atualização enviada para o GitHub.
 [INFO] Verificando mudanças - Fri May 16 15:01:06 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7e9dd83] Atualização automática em 2025-05-16 15:01:06
+ 1 file changed, 8 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 15:01:18 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
