@@ -793,3 +793,12 @@ fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': 
  1 file changed, 12 insertions(+)
 [INFO] Verificando mudanças - Sat May 17 10:38:02 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at e5e00ef66d14258d72d356eb4970c7a39aa58e99 but expected 3f907ad9ea220d2a0ade8a3e3e83b8c6bbecf498)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 10:50:44 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 10:50:44 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
