@@ -953,3 +953,13 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Verificando mudanças - Sat May 17 12:39:50 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main ba23cda] Atualização automática em 2025-05-17 12:39:50
+ 1 file changed, 2 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   b17096f..ba23cda  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 13:00:57 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 13:00:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
