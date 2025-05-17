@@ -634,3 +634,11 @@ error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_ges
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [main 22e12ef] Atualização automática em 2025-05-17 07:11:36
  1 file changed, 11 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   7358757..22e12ef  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 07:24:20 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 07:24:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
