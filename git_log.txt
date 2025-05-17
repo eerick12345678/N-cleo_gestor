@@ -553,3 +553,10 @@ fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': 
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Verificando mudanças - Sat May 17 01:35:59 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main f9f3b05] Atualização automática em 2025-05-17 01:35:59
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:46:12 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
