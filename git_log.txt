@@ -821,3 +821,12 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [INFO] Verificando mudanças - Sat May 17 11:17:59 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Verificando mudanças - Sat May 17 11:17:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 3d80c35] Atualização automática em 2025-05-17 11:17:59
+ 1 file changed, 7 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   6a1812b..3d80c35  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 11:25:22 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
