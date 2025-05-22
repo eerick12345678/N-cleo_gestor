@@ -1,0 +1,1 @@
+0 9 * * * tar -czf /data/data/com.termux/files/home/nucleo_gestor/backup_nucleo/projetos_backup.tar.gz -C /data/data/com.termux/files/home/nucleo_gestor/projetos .

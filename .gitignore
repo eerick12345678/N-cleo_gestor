@@ -1,0 +1,16 @@
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+.history/
+.env/
+node_modules/
+__pycache__/
+*.pyc
+termux.properties
+termux-sessions/
+*.mp3
+*.mp4
+*.zip

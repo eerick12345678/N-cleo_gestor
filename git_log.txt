@@ -1,0 +1,2679 @@
+[INFO] Verificando mudanças - Thu May 15 23:06:24 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 15 23:06:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 15 23:23:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Thu May 15 23:23:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 00:06:35 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 00:07:07 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 00:23:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 00:24:07 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 01:07:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 01:07:42 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 01:24:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 01:26:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 08:07:51 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 08:08:34 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 09:52:19 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 09:52:19 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c84d4fc..d33e330  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 10:03:50 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 10:03:50 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main b3768e4] Atualização automática em 2025-05-16 10:03:50
+ 2 files changed, 15 insertions(+)
+ create mode 100644 backup_nucleo/projetos_backup.tar.gz
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   1ff1f3e..b3768e4  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 11:44:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main a1339f8] Atualização automática em 2025-05-16 11:44:25
+ 2 files changed, 9 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   b3768e4..a1339f8  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 11:44:38 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 11:53:55 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 11:53:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main b2e76da] Atualização automática em 2025-05-16 11:53:56
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 12:46:47 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7217a1a] Atualização automática em 2025-05-16 12:46:47
+ 1 file changed, 7 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   b2e76da..7217a1a  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 12:46:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 12:56:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 12:56:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 1cd0a44] Atualização automática em 2025-05-16 12:56:15
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1cd0a4480653227b67f93d1eaf6415b80214bb3a but expected 6040536021fa421d8a3c8f3f12d69043892e320a)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 14:01:00 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 155301c] Atualização automática em 2025-05-16 14:01:00
+ 1 file changed, 9 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   1cd0a44..155301c  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 14:01:13 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 14:10:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 14:10:26 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 4a9fac1] Atualização automática em 2025-05-16 14:10:26
+ 1 file changed, 1 insertion(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   52f5ed7..4a9fac1  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 15:01:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7e9dd83] Atualização automática em 2025-05-16 15:01:06
+ 1 file changed, 8 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 15:01:18 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 15:10:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 9444638] Atualização automática em 2025-05-16 15:10:32
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 15:10:33 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 16:32:22 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 16:32:22 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main b92a2a6] Atualização automática em 2025-05-16 16:32:22
+ 1 file changed, 5 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   4a9fac1..b92a2a6  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 16:32:46 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 16:32:46 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 18:20:31 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 18:20:31 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main ee2d146] Atualização automática em 2025-05-16 18:20:31
+ 2 files changed, 21 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   954857b..ee2d146  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 18:20:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main fe5d36a] Atualização automática em 2025-05-16 18:20:56
+ 1 file changed, 8 insertions(+)
+[INFO] Verificando mudanças - Fri May 16 18:20:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   ee2d146..fe5d36a  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 20:17:09 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 20:17:09 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 295754b] Atualização automática em 2025-05-16 20:17:09
+ 1 file changed, 8 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   01a8feb..295754b  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 20:18:29 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 20:18:29 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 20:33:34 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 20:33:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 20:33:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 1f1a78c] Atualização automática em 2025-05-16 20:33:57
+ 1 file changed, 3 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   9d95013..1f1a78c  main -> main
+[INFO] Verificando mudanças - Fri May 16 20:38:34 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 20:38:34 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 7e9b4e1] Atualização automática em 2025-05-16 20:38:34
+ 1 file changed, 8 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 7e9b4e124dec5137cc240654f7cd6759c98bfa53 but expected e2bcc11496e16722256483621d0274d07788d0af)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 21:19:29 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 21:20:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main a41fa58] Atualização automática em 2025-05-16 21:20:49
+ 1 file changed, 3 insertions(+)
+[INFO] Verificando mudanças - Fri May 16 21:20:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c99b409..a41fa58  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 21:45:48 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 21:45:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 22:12:45 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 22:12:45 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   ab701b5..830fac0  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 22:24:23 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 22:25:43 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 22:25:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 3f0cb1fb438525dfb6e3485a9e8f16291b91da1d but expected 01721fb70030c5024094e6b91379dd4795856baa)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 22:35:46 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 22:35:46 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ed2dd3e] Atualização automática em 2025-05-16 22:35:46
+ 1 file changed, 14 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   3f0cb1f..ed2dd3e  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 22:45:56 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 22:45:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:12:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 23:12:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 0a87814] Atualização automática em 2025-05-16 23:12:49
+ 1 file changed, 12 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fd5fc9658b59c8abda2424f4346114641f0a27d4 but expected 546aa0c9da7c4779f2eb8a684eee65fb23d936ee)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:24:27 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:25:47 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 23:25:47 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:33:18 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 23:33:18 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main d2981ac] Atualização automática em 2025-05-16 23:33:18
+ 1 file changed, 21 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at d2981ac19da3dcef9481c40e182a02abae87fdf1 but expected bde63752edd4e3f31dd9df32d209c8d7dc43d60e)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:35:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Fri May 16 23:35:50 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main fa984db] Atualização automática em 2025-05-16 23:35:50
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fa984dbd0eb4362e5fa67cc15d800f9bdd7ef7ab but expected d2981ac19da3dcef9481c40e182a02abae87fdf1)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:46:04 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main e1547d9] Atualização automática em 2025-05-16 23:46:04
+ 1 file changed, 9 insertions(+)
+[INFO] Verificando mudanças - Fri May 16 23:46:05 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   fa984db..e1547d9  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 16 23:58:47 WAT 2025
+[INFO] Verificando mudanças - Fri May 16 23:58:47 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   2554d85..39ff80b  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:12:53 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 00:12:54 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at e7881577000e8c05dd56af4e22923e72847d37bd but expected 2165e0169219c5e6900b955dd5fb59414ad527c0)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:24:35 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:25:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 00:25:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 87ee2a2] Atualização automática em 2025-05-17 00:25:54
+ 1 file changed, 5 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 87ee2a264e3dfd199d125a9268e9ee205e37ce37 but expected 6c47e954578352933f03619686513c46ae241bef)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:33:22 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 00:33:22 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:35:54 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 00:35:55 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 9da87c9] Atualização automática em 2025-05-17 00:35:55
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 9da87c9c3356924a040f6e17766f082fab3890d5 but expected 7423ad753d0ab234acc5e93c325d84c8e31e1b24)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:46:09 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main e9976ba] Atualização automática em 2025-05-17 00:46:09
+ 1 file changed, 9 insertions(+)
+[INFO] Verificando mudanças - Sat May 17 00:46:09 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   9da87c9..e9976ba  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 00:58:51 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 00:58:51 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 4f2b2ba] Atualização automática em 2025-05-17 00:58:51
+ 1 file changed, 8 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   aa22991..4f2b2ba  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:13:01 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 01:13:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 9045dca] Atualização automática em 2025-05-17 01:13:01
+ 1 file changed, 10 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   30d8ecf..9045dca  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:26:03 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 01:26:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main d7b39d8] Atualização automática em 2025-05-17 01:26:03
+ 1 file changed, 17 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:33:27 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ed00fda] Atualização automática em 2025-05-17 01:33:27
+ 1 file changed, 14 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:33:27 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:35:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 01:35:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main f9f3b05] Atualização automática em 2025-05-17 01:35:59
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:46:12 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7477c75] Atualização automática em 2025-05-17 01:46:13
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 01:46:13 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 02:11:16 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 02:11:16 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 258938c] Atualização automática em 2025-05-17 02:11:31
+ 1 file changed, 5 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 03:22:06 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 03:22:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main d41221a] Atualização automática em 2025-05-17 03:22:09
+ 1 file changed, 9 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 06:00:01 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 06:00:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 4e25ba6] Atualização automática em 2025-05-17 06:00:13
+ 1 file changed, 16 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 06:58:50 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 06:58:50 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 93b6e1d] Atualização automática em 2025-05-17 06:58:50
+ 1 file changed, 14 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 07:01:23 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 07:01:23 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7358757] Atualização automática em 2025-05-17 07:01:24
+ 1 file changed, 9 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 7358757fccf3c93057c5e4228c77c95b3fa6f2ec but expected 9045dcace1ff7ae41fbd0f212e021c181264130e)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 07:11:36 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 07:11:36 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 22e12ef] Atualização automática em 2025-05-17 07:11:36
+ 1 file changed, 11 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   7358757..22e12ef  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 07:24:20 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 07:24:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: cannot lock ref 'HEAD': is at 3d35b25c3c6b3ea7b806eb3a8aa31fffd86ba69b but expected c706b93179faad1c0ad118cb16c1cf091f1e6d6f
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 3d35b25c3c6b3ea7b806eb3a8aa31fffd86ba69b but expected c706b93179faad1c0ad118cb16c1cf091f1e6d6f)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 07:52:27 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 07:52:27 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 11d5479] Atualização automática em 2025-05-17 07:52:27
+ 1 file changed, 24 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 08:37:02 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 08:37:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   3d35b25..de91ce2  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 09:10:11 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 09:10:11 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   de91ce2..0ec307f  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 09:18:29 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 09:18:30 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 1ddda0a] Atualização automática em 2025-05-17 09:18:30
+ 1 file changed, 2 insertions(+)
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 09:34:55 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 9ecb6f5] Atualização automática em 2025-05-17 09:34:55
+ 1 file changed, 7 insertions(+)
+[INFO] Verificando mudanças - Sat May 17 09:34:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 09:47:38 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 09:47:38 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 30585bf] Atualização automática em 2025-05-17 09:47:38
+ 1 file changed, 7 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 10:04:53 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 10:04:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at c775eb23f729190c80804108d599b2d3582fcb16 but expected 30585bfb8cb061bda6a28b96efe404fc49924373
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   1ddda0a..c775eb2  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 10:17:52 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 10:17:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c775eb2..2bd2e4a  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 10:25:16 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 10:25:16 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 10:27:58 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 10:27:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 10:38:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main a74f21a] Atualização automática em 2025-05-17 10:38:02
+ 1 file changed, 12 insertions(+)
+[INFO] Verificando mudanças - Sat May 17 10:38:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at e5e00ef66d14258d72d356eb4970c7a39aa58e99 but expected 3f907ad9ea220d2a0ade8a3e3e83b8c6bbecf498)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 10:50:44 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 10:50:44 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ed51e06] Atualização automática em 2025-05-17 10:50:44
+ 1 file changed, 9 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   e5e00ef..ed51e06  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 11:05:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main dd7bba9] Atualização automática em 2025-05-17 11:05:02
+ 1 file changed, 8 insertions(+)
+[INFO] Verificando mudanças - Sat May 17 11:05:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   ed51e06..dd7bba9  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 11:17:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 11:17:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 3d80c35] Atualização automática em 2025-05-17 11:17:59
+ 1 file changed, 7 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   6a1812b..3d80c35  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 11:25:22 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 11:25:23 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 941c1d6] Atualização automática em 2025-05-17 11:25:23
+ 1 file changed, 9 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   3d80c35..941c1d6  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 11:29:05 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 11:29:05 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 192bd10] Atualização automática em 2025-05-17 11:29:06
+ 1 file changed, 15 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 11:39:40 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 11:39:40 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[SUCESSO] Atualização enviada para o GitHub.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 11:52:23 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 11:52:24 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main b0b10eb] Atualização automática em 2025-05-17 11:52:24
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b0b10ebbcd7fbaece5c17d0480a4c52a6c4315f2 but expected de93d13f9f3ed3b2fefa8b5de27252ebcdd2e8be)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 12:03:22 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 12:03:22 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main adb7ef6] Atualização automática em 2025-05-17 12:03:22
+ 1 file changed, 11 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 12:06:41 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main c5a5cfe] Atualização automática em 2025-05-17 12:06:41
+ 2 files changed, 14 insertions(+)
+[INFO] Verificando mudanças - Sat May 17 12:06:42 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   adb7ef6..c5a5cfe  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 12:19:36 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 12:19:36 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 12:27:01 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 12:27:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   babc017..647012d  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 12:30:09 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 12:30:09 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main b17096f] Atualização automática em 2025-05-17 12:30:09
+ 1 file changed, 13 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   647012d..b17096f  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 12:39:50 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 12:39:50 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ba23cda] Atualização automática em 2025-05-17 12:39:50
+ 1 file changed, 2 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   b17096f..ba23cda  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 13:00:57 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 13:00:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 3952d7e81bc4bf52c68b47bc974432544e37b59b but expected ba23cdaf29b39565597d8f20e395a68911ff72b2)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 13:04:15 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 13:04:15 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 06154f7e35ddaa02b872eefed94b0cb1ebff475d but expected 3952d7e81bc4bf52c68b47bc974432544e37b59b)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 13:11:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 13:11:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   06154f7..23984fc  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 14:04:17 WAT 2025
+[INFO] Verificando mudanças - Sat May 17 14:04:17 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 830d9bc] Atualização automática em 2025-05-17 14:04:17
+ 5 files changed, 273 insertions(+), 8 deletions(-)
+ create mode 100644 projetos/blogue/gerador_sites/bot_oraculo.py
+ create mode 100644 projetos/blogue/gerador_sites/gerador.py
+ create mode 100644 projetos/blogue/gerador_sites/sites_gerados/animes_6367.html
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   23984fc..830d9bc  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 14:11:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main a4d4c75] Atualização automática em 2025-05-17 14:11:56
+ 1 file changed, 11 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   830d9bc..a4d4c75  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 14:12:00 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 15:27:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sat May 17 15:27:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 0f9b5bc] Atualização automática em 2025-05-17 15:27:49
+ 1 file changed, 2 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   8fc7a17..0f9b5bc  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 15:35:40 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 2a47650] Atualização automática em 2025-05-17 15:35:40
+ 1 file changed, 8 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   0f9b5bc..2a47650  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 17 15:35:44 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 00:58:52 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 00:58:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 01:01:08 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 01:01:08 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main c53c73e] Atualização automática em 2025-05-18 01:01:08
+ 8 files changed, 21 insertions(+), 324 deletions(-)
+ delete mode 100644 projetos/blogue/bot.py
+ delete mode 100644 projetos/blogue/config.json
+ delete mode 100644 projetos/blogue/gerador_sites/bot_oraculo.py
+ delete mode 100644 projetos/blogue/gerador_sites/gerador.py
+ delete mode 100644 projetos/blogue/gerador_sites/sites_gerados/animes_6367.html
+ delete mode 100644 projetos/blogue/gerador_sites/sites_gerados/hacker_4383.html
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c53c73e2b4e6bacadd391a57770a24597120ceb7 but expected 68b070942df1f9123060de1a30e6273aa644a92c)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 01:25:08 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 01:25:08 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 02:25:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 4e3fddf] Atualização automática em 2025-05-18 02:25:48
+ 1 file changed, 12 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 02:25:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 02:28:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sun May 18 02:28:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[main 76e0020] Atualização automática em 2025-05-18 02:28:06
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 02:52:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 2b0f937] Atualização automática em 2025-05-18 02:52:07
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 02:52:08 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 03:25:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main bab905a] Atualização automática em 2025-05-18 03:25:57
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 03:25:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 03:28:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sun May 18 03:28:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[main ce45beb] Atualização automática em 2025-05-18 03:28:14
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 04:02:42 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main cb660a5] Atualização automática em 2025-05-18 04:02:42
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 04:02:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 04:37:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 560f8f9] Atualização automática em 2025-05-18 04:37:57
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 04:37:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 04:40:15 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sun May 18 04:40:15 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[main 10ecae7] Atualização automática em 2025-05-18 04:40:15
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 05:04:13 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 82bf123] Atualização automática em 2025-05-18 05:04:13
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 05:04:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 06:47:16 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sun May 18 06:47:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 52ee025] Atualização automática em 2025-05-18 06:47:17
+ 1 file changed, 5 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 07:04:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sun May 18 07:04:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is ahead of 'origin/main' by 21 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   git_log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 08:57:36 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main c6270f2] Atualização automática em 2025-05-18 08:57:36
+ 1 file changed, 24 insertions(+)
+[INFO] Verificando mudanças - Sun May 18 08:57:37 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c327f86..c6270f2  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 09:31:23 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 09:31:23 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main b7f5d8b] Atualização automática em 2025-05-18 09:31:23
+ 1 file changed, 15 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b7f5d8bda1dbef6e72f17bbd988b258eadaa5235 but expected 54b0f19222b99186de3613204cb4a0e7fdf5c653)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 09:33:39 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 09:33:39 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   b7f5d8b..0d06df6  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 10:03:18 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sun May 18 10:03:18 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 44e3a68] Atualização automática em 2025-05-18 10:03:18
+ 1 file changed, 15 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 11:34:35 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 11:34:35 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main bc18412] Atualização automática em 2025-05-18 11:34:55
+ 1 file changed, 9 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 12:15:14 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 12:15:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 3304375] Atualização automática em 2025-05-18 12:15:39
+ 1 file changed, 9 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 17:09:17 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 17:09:17 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 1a027b2] Atualização automática em 2025-05-18 17:09:17
+ 1 file changed, 16 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 19:33:39 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 19:33:39 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main e74fd0d] Atualização automática em 2025-05-18 19:33:39
+ 1 file changed, 9 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': TLS connect error: error:00000000:lib(0)::reason(0)
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 19:41:06 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 19:41:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 6 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': TLS connect error: error:00000000:lib(0)::reason(0)
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 20:05:06 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 20:05:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main f4e09d2] Atualização automática em 2025-05-18 20:05:06
+ 1 file changed, 12 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 20:38:52 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 20:38:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main cb9a0a2] Atualização automática em 2025-05-18 20:38:52
+ 1 file changed, 16 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   0d06df6..cb9a0a2  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 20:41:07 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 20:41:07 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at c2f73e475641c6b49942727dca90193a38bec7f6 but expected cb9a0a21329daf73d5ad0bd8397d8cba8047b59a
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   cb9a0a2..c2f73e4  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 20:52:03 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 20:52:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main e87cbde] Atualização automática em 2025-05-18 20:52:03
+ 1 file changed, 16 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c2f73e4..e87cbde  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 21:07:52 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 21:07:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main a109b77] Atualização automática em 2025-05-18 21:07:53
+ 1 file changed, 10 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at a109b77de71371827fc4c7b982e324d881bb2666 but expected e87cbde028b1e8f3d6fb209743c51037a8df3a30)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 21:59:22 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Sun May 18 21:59:24 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ef7bd06] Atualização automática em 2025-05-18 21:59:24
+ 1 file changed, 2 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   a109b77..ef7bd06  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 22:03:55 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 6b485f9] Atualização automática em 2025-05-18 22:03:55
+ 1 file changed, 8 insertions(+)
+[INFO] Verificando mudanças - Sun May 18 22:03:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   ef7bd06..6b485f9  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 22:20:26 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 22:20:26 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 18 22:51:38 WAT 2025
+[INFO] Verificando mudanças - Sun May 18 22:51:38 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 00:03:29 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7f8df16] Atualização automática em 2025-05-19 00:03:29
+ 1 file changed, 18 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   fa5276b..7f8df16  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 00:03:37 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 00:05:37 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 945a968] Atualização automática em 2025-05-19 00:05:37
+ 1 file changed, 3 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 00:05:40 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   7d04ace..945a968  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 00:13:54 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main e9ae95e] Atualização automática em 2025-05-19 00:13:54
+ 1 file changed, 6 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   8f23c45..e9ae95e  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 00:13:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 00:29:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 00:29:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ee5fc8a] Atualização automática em 2025-05-19 00:29:53
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at ee5fc8ad4a9b78800e4ffb86f0972d8d93f302a0 but expected 6e179ec69b27571a3d2a7a96e690d8d474467017)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 01:03:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main a4ab7f0] Atualização automática em 2025-05-19 01:03:53
+ 1 file changed, 9 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   ee5fc8a..a4ab7f0  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 01:04:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 01:06:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 01:06:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 93eb32f] Atualização automática em 2025-05-19 01:06:01
+ 1 file changed, 3 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c459bc0cf9ca77a5603c1480fc670ca72cee9ff5 but expected 211d4f86bb7966aedd84fc94d1f4a01ce278f35f)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 01:14:16 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 4c52a74] Atualização automática em 2025-05-19 01:14:16
+ 1 file changed, 9 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c459bc0..4c52a74  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 01:14:21 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 01:29:56 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 01:29:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 01:45:40 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 01:45:40 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main b622917] Atualização automática em 2025-05-19 01:45:40
+ 1 file changed, 14 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   49e6d30..b622917  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 02:03:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main e475ddb] Atualização automática em 2025-05-19 02:03:58
+ 1 file changed, 15 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   b622917..e475ddb  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 02:04:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 02:06:05 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 02:06:05 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 488de4a] Atualização automática em 2025-05-19 02:06:05
+ 1 file changed, 12 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 488de4a5516be1026f0c7f8779b33a3cbc99bc4c but expected 3f0f88b8c7f00c6f0195349874f495bf2857728c)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 02:14:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main c1db1c7] Atualização automática em 2025-05-19 02:14:20
+ 1 file changed, 9 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   488de4a..c1db1c7  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 02:14:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 02:29:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 02e67da] Atualização automática em 2025-05-19 02:29:59
+ 1 file changed, 3 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 02:30:00 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   cae19fe..02e67da  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 02:45:42 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 02:45:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 9c9f3ce] Atualização automática em 2025-05-19 02:45:44
+ 1 file changed, 2 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 9c9f3cef6b56ffa7fddd441227d95cb12c6cdc9d but expected 65d18c3482d8e8f0fcc02c2df56cfd8e8c7662c4)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 03:04:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7c5a74e] Atualização automática em 2025-05-19 03:04:03
+ 1 file changed, 9 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   9c9f3ce..7c5a74e  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 03:04:11 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 03:06:08 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 03:06:09 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 27e46ee] Atualização automática em 2025-05-19 03:06:10
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 03:14:23 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 54549ec] Atualização automática em 2025-05-19 03:14:24
+ 1 file changed, 7 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   27e46ee..54549ec  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 03:14:28 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 03:30:04 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 03:30:04 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 93b14e1] Atualização automática em 2025-05-19 03:30:04
+ 1 file changed, 12 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 93b14e19fa50651ccffbccefa94eb4b6ab4c5d27 but expected 36d516241d5f6ac4e4dd2d480d608e0a120e69df)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 03:45:49 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 03:45:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 1027937] Atualização automática em 2025-05-19 03:45:50
+ 1 file changed, 18 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   93b14e1..1027937  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 08:49:26 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main fffff33] Atualização automática em 2025-05-19 08:49:26
+ 1 file changed, 8 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   1027937..fffff33  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 08:49:34 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 08:51:31 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 08:51:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main f3932b4] Atualização automática em 2025-05-19 08:51:32
+ 1 file changed, 2 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   fe800c3..f3932b4  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 09:14:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 7417f33] Atualização automática em 2025-05-19 09:15:04
+ 1 file changed, 8 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 09:15:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 09:37:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 09:37:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 8cb0ead] Atualização automática em 2025-05-19 09:37:49
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 09:54:19 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 09:54:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 21a16b7] Atualização automática em 2025-05-19 09:54:20
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Connection timed out after 300044 milliseconds
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 10:12:39 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main d848723] Atualização automática em 2025-05-19 10:12:39
+ 1 file changed, 7 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 10:12:47 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 10:14:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 63bf8ff] Atualização automática em 2025-05-19 10:14:43
+ 1 file changed, 2 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 10:14:44 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Connection timed out after 300017 milliseconds
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Connection timed out after 300030 milliseconds
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 10:26:13 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 10:26:13 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 10:42:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 10:42:37 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 3adb895] Atualização automática em 2025-05-19 10:42:37
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 11:46:24 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 11:46:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   git_log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 12:04:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 12:06:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ac50e4f] Atualização automática em 2025-05-19 12:06:49
+ 1 file changed, 3 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 12:06:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   289ee94..ac50e4f  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 12:11:27 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 9bf3888] Atualização automática em 2025-05-19 12:11:28
+ 1 file changed, 6 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c77b8da..9bf3888  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 12:11:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 12:26:54 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 12:27:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 99e9ea6] Atualização automática em 2025-05-19 12:27:03
+ 1 file changed, 3 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   6785bb5..99e9ea6  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 12:46:29 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 12:46:29 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 13:04:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 13:06:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 12ae114] Atualização automática em 2025-05-19 13:06:56
+ 1 file changed, 3 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 13:06:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   e5a8d9d..12ae114  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 13:11:35 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main e456632] Atualização automática em 2025-05-19 13:11:35
+ 1 file changed, 6 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   ca0d3e5..e456632  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 13:11:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 13:27:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 13:27:11 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 968b90c] Atualização automática em 2025-05-19 13:27:11
+ 1 file changed, 3 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   d0d04cd..968b90c  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 13:46:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 13:46:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main fc92992] Atualização automática em 2025-05-19 13:46:32
+ 1 file changed, 7 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fc92992fa55f8eb38b0f12812a37c7ab3e89be0c but expected 968b90c7d9410c5e4836d80876dca66e28ae0540)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 14:18:10 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 14:20:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main f78a038] Atualização automática em 2025-05-19 14:20:06
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 14:20:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 14:24:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 71f097b] Atualização automática em 2025-05-19 14:24:43
+ 1 file changed, 3 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 14:24:51 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c54776c..71f097b  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 14:40:26 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 14:40:33 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main a517bf7] Atualização automática em 2025-05-19 14:40:33
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 15:01:42 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 15:01:43 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 42c41e6] Atualização automática em 2025-05-19 15:01:43
+ 1 file changed, 8 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 15:22:45 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 15:28:23 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 15:28:23 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 15:33:31 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ba94ef0] Atualização automática em 2025-05-19 15:33:31
+ 1 file changed, 10 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 15:33:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c13b5cd..ba94ef0  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 15:56:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 15:56:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 0c87b2e] Atualização automática em 2025-05-19 15:56:56
+ 1 file changed, 3 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   34766ae..0c87b2e  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 16:36:37 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 16:36:37 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at d8c131ef349e6a05128062c972de63d0d6b737b0 but expected 0c87b2e9beeca60ad45f6ad831b5c8c5101ba521)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 17:20:17 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 17:27:37 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 17:27:37 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main debbdc6] Atualização automática em 2025-05-19 17:27:38
+ 1 file changed, 5 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 17:41:46 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 2d83c37] Atualização automática em 2025-05-19 17:41:46
+ 1 file changed, 14 insertions(+)
+[INFO] Verificando mudanças - Mon May 19 17:41:46 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 0a6902c56273a9b983ddd56b873674e73bd5c5f8 but expected d8c131ef349e6a05128062c972de63d0d6b737b0)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 18:04:31 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 18:04:39 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 4f719e3] Atualização automática em 2025-05-19 18:04:39
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   2dec56b..4f719e3  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 18:23:58 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 18:23:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main dc98e89] Atualização automática em 2025-05-19 18:23:58
+ 1 file changed, 17 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 18:54:56 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 18:56:59 WAT 2025
+[INFO] Verificando mudanças - Mon May 19 18:56:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main acf1e9c] Atualização automática em 2025-05-19 18:56:59
+ 1 file changed, 12 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   2eaed67..acf1e9c  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 19:03:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 19:03:57 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main d96c9e2] Atualização automática em 2025-05-19 19:03:57
+ 1 file changed, 2 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 0
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Mon May 19 19:40:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Mon May 19 19:41:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 13b384c] Atualização automática em 2025-05-19 19:41:02
+ 1 file changed, 2 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Recv failure: Connection reset by peer
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 01:02:53 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 01:02:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at 34b192e10103d415607626fd52fb96a8b4ed05d2 but expected 13b384c16b84c2030af2e6c1107484b723b7beae
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 34b192e10103d415607626fd52fb96a8b4ed05d2 but expected acf1e9cf2f5ed2361e8481d3ba2bb8db39606b2b)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 10:15:42 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 10:15:42 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 7c7bf5e] Atualização automática em 2025-05-20 10:15:42
+ 1 file changed, 10 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   34b192e..7c7bf5e  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 11:15:45 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 11:15:45 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main fde660f] Atualização automática em 2025-05-20 11:15:45
+ 1 file changed, 17 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fde660fb579480ced4dec8d91b7674f10424139c but expected 7c7bf5e2709bb90f5081c46588c6dd0bddce708f)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 11:27:00 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 11:27:00 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at a69925982a04d2de92bef68cb180d24dd3b0afc5 but expected fde660fb579480ced4dec8d91b7674f10424139c
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   fde660f..a699259  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 11:31:45 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 11:31:45 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main c15e53f] Atualização automática em 2025-05-20 11:31:45
+ 1 file changed, 11 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c15e53f0690be24108f074cb680bacb276d0461c but expected a69925982a04d2de92bef68cb180d24dd3b0afc5)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 12:33:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 12:33:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 62a954a] Atualização automática em 2025-05-20 12:33:04
+ 1 file changed, 3 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   7a6c825..62a954a  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 12:44:16 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 12:44:16 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main c38d85c] Atualização automática em 2025-05-20 12:44:16
+ 1 file changed, 16 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c38d85ca2e87f8f564d6ecf1ecf9be9adea30f94 but expected 62a954ade9ea4150548ac76e5ef558865b609ed2)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 12:48:53 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 12:48:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at bc83bdc394896f9fbf2f594eef5a19b5b552faa3 but expected c38d85ca2e87f8f564d6ecf1ecf9be9adea30f94
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at bc83bdc394896f9fbf2f594eef5a19b5b552faa3 but expected c38d85ca2e87f8f564d6ecf1ecf9be9adea30f94)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 13:33:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Tue May 20 13:33:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 21c8ec8] Atualização automática em 2025-05-20 13:33:06
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   c431e69..21c8ec8  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 13:44:18 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 13:44:18 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 885ba17] Atualização automática em 2025-05-20 13:44:19
+ 1 file changed, 10 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 885ba17a0f4cea79285208a328c731a7b720f6ce but expected 21c8ec871b45ba97b7ba73ec16905f0b856c49ef)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 13:48:55 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 13:48:55 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 2842f99] Atualização automática em 2025-05-20 13:48:55
+ 1 file changed, 11 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 2842f9938786debe1a62e0e2a955be98c527da81 but expected 885ba17a0f4cea79285208a328c731a7b720f6ce)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 15:51:16 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 15:51:16 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main be22163] Atualização automática em 2025-05-20 15:51:17
+ 1 file changed, 18 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   2842f99..be22163  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 16:51:19 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Tue May 20 16:51:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main d73e14c] Atualização automática em 2025-05-20 16:51:20
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at d73e14ca600ad5daa5d48a3a482363230482e8fe but expected be221632a5294d4e39d7c0776ffa874c81706f35)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 18:15:26 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 18:15:26 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   d73e14c..3085b92  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 21:01:10 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 21:01:10 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   3085b92..4dbe8b1  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 22:05:15 WAT 2025
+[INFO] Verificando mudanças - Tue May 20 22:05:15 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main c9dda43] Atualização automática em 2025-05-20 22:05:15
+ 1 file changed, 15 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   4dbe8b1..c9dda43  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 20 23:05:18 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Tue May 20 23:05:19 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main ea3808b] Atualização automática em 2025-05-20 23:05:19
+ 1 file changed, 2 insertions(+)
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 00:05:20 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 00:05:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 8e8402f908f71dda36b91dbe657e14a5dc821d0f but expected ea3808b142bf15f1996e48dbdc56f4dc79df9a76)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 08:35:46 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 08:35:46 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 10:01:17 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 10:01:17 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 36b90ff] Atualização automática em 2025-05-21 10:01:17
+ 1 file changed, 12 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 36b90ff5f960c8b88fd23f8298402e351fdbf65a but expected 8e8402f908f71dda36b91dbe657e14a5dc821d0f)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 11:08:19 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 11:08:19 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 58c054467e15a19a86fb3cdd374c70e2a213102b but expected 36b90ff5f960c8b88fd23f8298402e351fdbf65a)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 12:08:33 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 12:08:34 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 8a086a0] Atualização automática em 2025-05-21 12:08:34
+ 1 file changed, 16 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   58c0544..8a086a0  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 13:10:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Wed May 21 13:10:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main be458fd] Atualização automática em 2025-05-21 13:10:04
+ 1 file changed, 2 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at be458fddac95613b63d5816a63c452fb68067d99 but expected 8a086a033d73ea662b420c21337464a401145a20)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 14:20:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Wed May 21 14:20:48 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 5a44321] Atualização automática em 2025-05-21 14:20:49
+ 1 file changed, 2 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 5a44321816d7dd8d8bedca965122e552f4187e38 but expected be458fddac95613b63d5816a63c452fb68067d99)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 15:51:49 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 15:51:50 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at a315ac43869a91a05bb92398cb8f35001de2ca2e but expected 5a44321816d7dd8d8bedca965122e552f4187e38)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 18:15:27 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 18:15:27 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 07539ff84c3225f26c6887a53e4e2039a47bd9a0 but expected a315ac43869a91a05bb92398cb8f35001de2ca2e)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 19:20:59 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 19:20:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 20:21:06 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 20:21:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 6a0d3e5] Atualização automática em 2025-05-21 20:21:06
+ 1 file changed, 34 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 21 21:45:11 WAT 2025
+[INFO] Verificando mudanças - Wed May 21 21:45:11 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at 0d1b556e1348f77e7cda436726367f8f2dc16b14 but expected 6a0d3e54baf31aacda7278ab84b371b1296dbd6e
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 0d1b556e1348f77e7cda436726367f8f2dc16b14 but expected 4834e1e92c10c5ef492492fa3552d93bea471d69)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 11:32:03 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 11:32:03 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 1a2c580] Atualização automática em 2025-05-22 11:32:03
+ 1 file changed, 17 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1a2c580d9753bfb0eb01286050ade2df11ac1455 but expected 0d1b556e1348f77e7cda436726367f8f2dc16b14)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 12:33:58 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 12:33:58 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   1a2c580..f2be20a  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 13:41:15 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 13:41:15 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 14:43:06 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 14d0569] Atualização automática em 2025-05-22 14:43:07
+ 1 file changed, 12 insertions(+)
+[INFO] Verificando mudanças - Thu May 22 14:43:07 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   ca96ddf..14d0569  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 15:46:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 5c71236] Atualização automática em 2025-05-22 15:46:25
+ 1 file changed, 6 insertions(+)
+[INFO] Verificando mudanças - Thu May 22 15:46:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   71db18c..5c71236  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 17:17:14 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 17:17:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 97dccd5] Atualização automática em 2025-05-22 17:17:14
+ 1 file changed, 8 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   811667f..97dccd5  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 18:31:29 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 18:31:29 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main de57fdb] Atualização automática em 2025-05-22 18:31:29
+ 1 file changed, 17 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   97dccd5..de57fdb  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 20:19:01 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 20:19:01 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 22223f6] Atualização automática em 2025-05-22 20:19:01
+ 1 file changed, 17 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 22223f651ac0ff549bc78c11e55ac45aab1b4704 but expected de57fdb6d2ac4377b260c7e8e09f182deb8ce038)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 21:24:53 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 21:24:53 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 21:30:14 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 21:30:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   1042aac..2bb4688  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 22:30:16 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Verificando mudanças - Thu May 22 22:30:17 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[main 520761d] Atualização automática em 2025-05-22 22:30:17
+ 1 file changed, 13 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 520761d0415d1313ea3cf71447842e97a508c2b9 but expected 2bb4688e93e9e9fb0c6c098d364bc131a3bbe323)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 23:30:19 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 23:30:19 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 23:50:02 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 23:50:02 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 89f7cd7] Atualização automática em 2025-05-22 23:50:02
+ 1 file changed, 14 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 89f7cd7daaf63a929f60837aac342fa6bad07d63 but expected 27aba739d6428f3ad99862f8d5652b940f40d46b)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 22 23:51:14 WAT 2025
+[INFO] Verificando mudanças - Thu May 22 23:51:14 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at 28ed5ef426b2631c929a2ff7dcaa881f917f85ac but expected 89f7cd7daaf63a929f60837aac342fa6bad07d63
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   89f7cd7..28ed5ef  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
