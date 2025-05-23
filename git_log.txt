@@ -2773,3 +2773,21 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [INFO] Verificando mudanças - Fri May 23 03:50:17 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+nothing to commit, working tree clean
+[SUCESSO] Atualização enviada para o GitHub.
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at be1601f5e7722fc87a1671ebd07f89aa7475db0f but expected 745cc4d3a6f8e18631892c13e4c5f430951df891)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 23 05:47:19 WAT 2025
+[INFO] Verificando mudanças - Fri May 23 05:47:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
