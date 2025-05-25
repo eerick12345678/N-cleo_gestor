@@ -2918,3 +2918,13 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main c6322ba] Atualização automática em 2025-05-25 08:32:21
+ 1 file changed, 30 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   35a3155..c6322ba  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 25 08:34:52 WAT 2025
+[INFO] Verificando mudanças - Sun May 25 08:34:52 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
