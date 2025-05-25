@@ -2867,3 +2867,13 @@ fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': 
 [INFO] Verificando mudanças - Fri May 23 11:59:40 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main f2bad4d] Atualização automática em 2025-05-23 11:59:41
+ 1 file changed, 14 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   40ed3ae..f2bad4d  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun May 25 07:28:20 WAT 2025
+[INFO] Verificando mudanças - Sun May 25 07:28:20 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
