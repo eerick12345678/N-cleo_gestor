@@ -2983,3 +2983,27 @@ error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_ges
 [INFO] Verificando mudanças - Tue May 27 20:15:39 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 60f0128] Atualização automática em 2025-05-27 20:15:39
+ 1 file changed, 18 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   f60cd0b..60f0128  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Tue May 27 21:59:25 WAT 2025
+[INFO] Verificando mudanças - Tue May 27 21:59:25 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
