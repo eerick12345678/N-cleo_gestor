@@ -3034,3 +3034,9 @@ Everything up-to-date
  1 file changed, 12 insertions(+)
 [INFO] Verificando mudanças - Wed May 28 00:12:33 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   9739b47..1ef870e  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Wed May 28 01:55:44 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
