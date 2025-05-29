@@ -3086,3 +3086,18 @@ error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_ges
 [INFO] Verificando mudanças - Wed May 28 21:56:33 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: cannot lock ref 'HEAD': is at 4d9ecbdf93095c80d55741c735423c065dbc87b6 but expected fede9ae150cde282e6587f3349cde9c4ae4878ad
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 29 10:02:37 WAT 2025
+[INFO] Verificando mudanças - Thu May 29 10:02:37 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
