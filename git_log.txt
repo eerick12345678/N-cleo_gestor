@@ -3101,3 +3101,12 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main a03807a] Atualização automática em 2025-05-29 10:02:37
+ 1 file changed, 15 insertions(+)
+[SUCESSO] Atualização enviada para o GitHub.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Thu May 29 12:59:59 WAT 2025
+[INFO] Verificando mudanças - Thu May 29 12:59:59 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
