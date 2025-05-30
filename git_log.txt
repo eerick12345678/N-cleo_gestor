@@ -3379,3 +3379,14 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main ca8afc3] Atualização automática em 2025-05-30 13:33:32
+ 1 file changed, 14 insertions(+)
+To https://github.com/eerick12345678/N-cleo_gestor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at ca8afc3c3e24d157ba75d9d80e4f6286a1f6e124 but expected 05666eb0b7ae309df4c0aa68c77a8736e180dda2)
+error: failed to push some refs to 'https://github.com/eerick12345678/N-cleo_gestor.git'
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 30 14:33:34 WAT 2025
+[INFO] Verificando mudanças - Fri May 30 14:33:34 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
