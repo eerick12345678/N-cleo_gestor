@@ -3365,3 +3365,17 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [main 44c2ef2] Atualização automática em 2025-05-30 12:08:43
  1 file changed, 7 insertions(+)
 [INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Fri May 30 13:33:32 WAT 2025
+[INFO] Verificando mudanças - Fri May 30 13:33:32 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
