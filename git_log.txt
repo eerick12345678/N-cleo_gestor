@@ -3795,3 +3795,13 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [INFO] Verificando mudanças - Sat May 31 18:35:15 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+nothing to commit, working tree clean
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   467844c..855b943  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sat May 31 19:35:17 WAT 2025
+[INFO] Verificando mudanças - Sat May 31 19:35:17 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
