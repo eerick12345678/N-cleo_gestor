@@ -3947,3 +3947,17 @@ fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': 
 [INFO] Verificando mudanças - Sun Jun  1 05:44:50 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+fatal: Unable to create '/data/data/com.termux/files/home/nucleo_gestor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun Jun  1 07:09:42 WAT 2025
+[INFO] Verificando mudanças - Sun Jun  1 07:09:42 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
