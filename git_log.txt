@@ -3877,3 +3877,13 @@ fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': 
 [INFO] Verificando mudanças - Sun Jun  1 00:44:46 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
 [INFO] Mudanças detectadas. Preparando para commit e push...
+On branch main
+nothing to commit, working tree clean
+To https://github.com/eerick12345678/N-cleo_gestor.git
+   a62c4d8..f30ebe7  main -> main
+[SUCESSO] Atualização enviada para o GitHub.
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun Jun  1 01:44:49 WAT 2025
+[INFO] Verificando mudanças - Sun Jun  1 01:44:49 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
