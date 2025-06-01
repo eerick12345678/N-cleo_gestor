@@ -4021,3 +4021,11 @@ To https://github.com/eerick12345678/N-cleo_gestor.git
 [SUCESSO] Atualização enviada para o GitHub.
 [INFO] Verificando mudanças - Sun Jun  1 12:23:00 WAT 2025
 [INFO] Mudanças detectadas. Preparando para commit e push...
+[main 85d3632] Atualização automática em 2025-06-01 12:23:00
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://github.com/eerick12345678/N-cleo_gestor.git/': Could not resolve host: github.com
+[SUCESSO] Atualização enviada para o GitHub.
+[INFO] Verificando mudanças - Sun Jun  1 16:45:35 WAT 2025
+[INFO] Verificando mudanças - Sun Jun  1 16:45:35 WAT 2025
+[INFO] Mudanças detectadas. Preparando para commit e push...
+[INFO] Mudanças detectadas. Preparando para commit e push...
